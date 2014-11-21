@@ -1,7 +1,7 @@
 ----------------------------------
 Quiz 2 - Exploratory Data Analysis
 ----------------------------------
-        
+       
 Question 1
 Under the lattice graphics system, what do the primary plotting functions like 
 xyplot() and bwplot() return?
